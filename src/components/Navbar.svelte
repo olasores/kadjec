@@ -17,7 +17,7 @@
       
       <div class="hidden md:flex items-center space-x-8">
         <a href="#home" class="nav-link text-gray-700 hover:text-primary transition-colors">Home</a>
-        <a href="#about" class="nav-link text-gray-700 hover:text-primary transition-colors">About</a>
+        <a href="#about-section" class="nav-link text-gray-700 hover:text-primary transition-colors">About</a>
         <a href="#gallery" class="nav-link text-gray-700 hover:text-primary transition-colors">Gallery</a>
         <a href="#contact" class="nav-link text-gray-700 hover:text-primary transition-colors">Contact</a>
         <button class="nav-link bg-primary text-white px-6 py-2 rounded-md hover:bg-opacity-90 transition-all transform hover:scale-105">
