@@ -36,7 +36,7 @@
   {#if isMenuOpen}
     <div class="md:hidden bg-white border-t">
       <a href="#home" class="nav-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Home</a>
-      <a href="#about" class="nav-link block px-4 py-2 text-gray-700 hover:bg-gray-100">About</a>
+      <a href="#about-section" class="nav-link block px-4 py-2 text-gray-700 hover:bg-gray-100">About</a>
       <a href="#gallery" class="nav-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Gallery</a>
       <a href="#contact" class="nav-link block px-4 py-2 text-gray-700 hover:bg-gray-100">Contact</a>
       <div class="px-4 py-2">
