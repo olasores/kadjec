@@ -17,7 +17,9 @@
         </div>
         <div>
           <h3 class="text-xl font-semibold mb-2">Email</h3>
-          <p class="text-gray-600">something@gmail.com</p>
+          <a href="mailto:info.kingdomwork@gmail.com" class="hover:underline">
+            <span>info.kingdomwork@gmail.com</span>
+          </a>
         </div>
       </div>
 
